@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1515671622 source:c:\users\liviu\documents\c++\blackjack\main.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<limits>
+	<algorithm>
+	"cards.h"
+
+1515364792 c:\users\liviu\documents\c++\blackjack\cards.h
+
